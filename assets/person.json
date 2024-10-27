@@ -1,0 +1,38 @@
+[
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "age": 24,
+      "city": "New York",
+      "occupation": "Software Engineer"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "age": 29,
+      "city": "Los Angeles",
+      "occupation": "Data Scientist"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "age": 31,
+      "city": "Chicago",
+      "occupation": "Product Manager"
+    },
+    {
+      "name": "Michael Brown",
+      "email": "michaelbrown@example.com",
+      "age": 27,
+      "city": "Houston",
+      "occupation": "Graphic Designer"
+    },
+    {
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "age": 22,
+      "city": "Phoenix",
+      "occupation": "Marketing Specialist"
+    }
+  ]
+  
